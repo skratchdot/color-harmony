@@ -138,6 +138,10 @@ harmonizer.tones('#925719', 14); // you can return a custom amount (an array of 
 
 ## Release History
 
+#### v0.2.0 - Released June 22, 2014
+
+- fixing a bug with the saturation value that was being used
+
 #### v0.1.0 - Released June 21, 2014
 
 - initial release

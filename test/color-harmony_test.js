@@ -37,6 +37,13 @@ exports['color-harmony'] = {
 		test.equal(Object.keys(harmonies).length, 18);
 		test.done();
 	},
+	'complementary': function (test) {
+		test.expect(2);
+		var result = harmonizer.harmonize(hex, 'complementary');
+		test.equal(result[0], hex);
+		test.equal(result[1], '#3ef015');
+		test.done();
+	},
 	'harminize()': function (test) {
 		test.expect(4);
 		test.ok(harmonizer.harmonize(hex, 'complementary').length === 2);
