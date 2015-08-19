@@ -7,7 +7,7 @@
 [![Dependency Status](https://david-dm.org/skratchdot/color-harmony.svg)](https://david-dm.org/skratchdot/color-harmony)
 [![devDependency Status](https://david-dm.org/skratchdot/color-harmony/dev-status.svg)](https://david-dm.org/skratchdot/color-harmony#info=devDependencies)
 
-[![NPM](https://nodei.co/npm/color-harmony.svg)](https://npmjs.org/package/color-harmony)
+[![NPM](https://nodei.co/npm/color-harmony.png)](https://npmjs.org/package/color-harmony)
 
 
 ## Description
