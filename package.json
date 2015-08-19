@@ -1,62 +1,62 @@
 {
-	"name": "color-harmony",
-	"description": "Create color scales by rotating hue",
-	"version": "0.2.0",
-	"homepage": "https://github.com/skratchdot/color-harmony",
-	"author": {
-		"name": "skratchdot",
-		"email": "git@skratchdot.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/skratchdot/color-harmony.git"
-	},
-	"bugs": {
-		"url": "https://github.com/skratchdot/color-harmony/issues"
-	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "https://github.com/skratchdot/color-harmony/blob/master/LICENSE-MIT"
-		}
-	],
-	"main": "lib/color-harmony",
-	"engines": {
-		"node": ">= 0.8.0"
-	},
-	"scripts": {
-		"test": "gulp test"
-	},
-	"dependencies": {
-		"onecolor": "^2.4.0"
-	},
-	"devDependencies": {
-	    "gulp": "^3.8.1",
-	    "gulp-jshint": "^1.6.3",
-	    "gulp-nodeunit": "0.0.5"
-	},
-	"keywords": [
-		"color",
-		"colour",
-		"theory",
-		"harmony",
-		"harmonies",
-		"schemes",
-		"scales",
-		"shades",
-		"tints",
-		"tones",
-		"analogous",
-		"complementary",
-		"triadic",
-		"tetradic",
-		"rgb",
-		"rgba",
-		"hsl",
-		"hsla",
-		"hsv",
-		"hsva",
-		"cmyk",
-		"xyz"
-	]
+  "name": "color-harmony",
+  "description": "Create color scales by rotating hue",
+  "version": "0.3.0",
+  "homepage": "https://github.com/skratchdot/color-harmony",
+  "author": {
+    "name": "skratchdot",
+    "email": "git@skratchdot.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skratchdot/color-harmony.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skratchdot/color-harmony/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/skratchdot/color-harmony/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/color-harmony",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "onecolor": "^2.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-nodeunit": "0.0.5"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "theory",
+    "harmony",
+    "harmonies",
+    "schemes",
+    "scales",
+    "shades",
+    "tints",
+    "tones",
+    "analogous",
+    "complementary",
+    "triadic",
+    "tetradic",
+    "rgb",
+    "rgba",
+    "hsl",
+    "hsla",
+    "hsv",
+    "hsva",
+    "cmyk",
+    "xyz"
+  ]
 }
