@@ -44,7 +44,7 @@ exports['color-harmony'] = {
 		test.equal(result[1], '#3ef015');
 		test.done();
 	},
-	'harminize()': function (test) {
+	'harmonize()': function (test) {
 		test.expect(4);
 		test.ok(harmonizer.harmonize(hex, 'complementary').length === 2);
 		test.ok(harmonizer.harmonize(hex, [0,1,2,30,34,66,201,222,234,256,289,293,304,344]).length === 14);
